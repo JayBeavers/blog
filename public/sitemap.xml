@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beavers.family/</loc>
+    <loc>https://jay.beavers.family/</loc>
     <lastmod>2025-01-13T20:59:45-08:00</lastmod>
   </url><url>
-    <loc>https://beavers.family/posts/</loc>
+    <loc>https://jay.beavers.family/posts/</loc>
     <lastmod>2025-01-13T20:59:45-08:00</lastmod>
   </url><url>
-    <loc>https://beavers.family/posts/hello-world/</loc>
+    <loc>https://jay.beavers.family/posts/hello-world/</loc>
     <lastmod>2025-01-13T20:59:45-08:00</lastmod>
   </url><url>
-    <loc>https://beavers.family/categories/</loc>
+    <loc>https://jay.beavers.family/categories/</loc>
   </url><url>
-    <loc>https://beavers.family/tags/</loc>
+    <loc>https://jay.beavers.family/tags/</loc>
   </url>
 </urlset>

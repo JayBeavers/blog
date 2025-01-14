@@ -1,4 +1,4 @@
-baseURL = 'https://beavers.family/'
+baseURL = 'https://jay.beavers.family/'
 title = 'Hacking By The Babbling Brook'
 theme = 'hugo-coder'
 languageCode = 'en-us'
@@ -10,12 +10,19 @@ pagerSize = 20
 [markup.highlight]
 style = "github-dark"
 
-# Menu links
+[params]
+  author = "Jay Beavers"
+  description = "Jay's personal blog"
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
 [[menu.main]]
   name = "Blog"
   weight = 1
   url  = "posts/"
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+
+# [[menu.main]]
+#   name = "About"
+#   weight = 2
+#   url = "about/"
