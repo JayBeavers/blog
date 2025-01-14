@@ -1,0 +1,21 @@
+baseURL = 'https://beavers.family/'
+title = 'Hacking By The Babbling Brook'
+theme = 'hugo-coder'
+languageCode = 'en-us'
+defaultcontentlanguage = "en"
+
+[pagination]
+pagerSize = 20
+
+[markup.highlight]
+style = "github-dark"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
